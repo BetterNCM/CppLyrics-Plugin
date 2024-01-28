@@ -1,7 +1,8 @@
 {
     "manifest_version": 1,
     "name": "CppLyrics ⚠ 开发中 ⚠",
-    "version": "0.0.5",
+    "version": "0.0.6",
+    "slug": "cpplyrics",
     "author":"MicroBlock",
     "description":"⚠ 开发中 ⚠\n最快，最流畅的歌词插件",
     "preview":"preview.png",
